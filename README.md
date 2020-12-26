@@ -1,7 +1,7 @@
 # GPACalculator
 #This python code calculate your students GPA then it shows All Students ID with their GPA's and Honor Students ID
 
-#Mehmet Mert Telioglu - 160302055
+#Mehmet Mert Telioglu
 
 student = {}
 all_courses_info = {}
@@ -87,6 +87,7 @@ print(' ')
 print('Honor Students with GPA above 3.0')
 for i in range(len(honorstudents)):
   print(honorstudents[i])
-#Mehmet Mert Tellioglu - 160302055
+  
+#Mehmet Mert Tellioglu
 
 
